@@ -8,5 +8,10 @@ This new assignment consists of two technical products. You will submit the foll
 Deliverable 1: Scrape titles and preview text from Mars news articles.
 Deliverable 2: Scrape and analyze Mars weather data, which exists in a table.
 
+### Location of work
+
+module_11_challenge --> part_1_mars_news.ipynb
+
+module_11_challenge -->  part_2_mars_news.ipynb
 
 
